@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(121, 77, 77);
+    color: rgb(0, 0, 0);
+}
+
+.button{
+    /* size:40em; */
+    /* width: 40px; */
+    /* height: 20px; */
+    /* align-items: center;
+    justify-content: center; */
+    margin: 56px;
+    padding: 128px;
+    border: solid black 5px;
+    border-radius: 400px;
+    
+}
+#purple{
+    background-color: purple;
+
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+}
+#white{
+    background-color: white;
+}
+h1{
+    padding-bottom: 200px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-top: 250px;
+   
+}
